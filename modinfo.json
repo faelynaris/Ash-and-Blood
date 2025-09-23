@@ -1,7 +1,7 @@
 {
 	"name": "Ash and Blood Server Mod",
 	"description": "",
-	"changeNote": "1.1.13\n\n- Potential fix for storage capacity over the limit not turning red.\n- Added \"Trash Basket\" to the approved storage list, with 1 slot.",
+	"changeNote": "1.1.13\n\n- Changed more storage items.",
 	"author": "Ash and Blood",
 	"authorUrl": "",
 	"versionMajor": 1,
@@ -12,7 +12,7 @@
 	"steamTestLivePublishedFileId": "",
 	"steamVisibility": 0,
 	"folderName": "Ash-and-Blood",
-	"revisionNumber": 1602774,
-	"snapshotId": 44276,
+	"revisionNumber": 1674656,
+	"snapshotId": 44402,
 	"fileSize": 0
 }
