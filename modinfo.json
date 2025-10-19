@@ -1,18 +1,18 @@
 {
 	"name": "Ash and Blood Server Mod",
-	"description": "",
-	"changeNote": "1.1.20\n \nAdded inventory space to Stables.",
-	"author": "Ash and Blood",
+	"description": "Mod ID: 3589557185\n\nA server mod for the Ash and Blood server!",
+	"changeNote": "",
+	"author": "TModano, WoV Gaming, Fae",
 	"authorUrl": "",
 	"versionMajor": 1,
 	"versionMinor": 1,
-	"versionBuild": 20,
+	"versionBuild": 0,
 	"bRequiresLoadOnStartup": false,
-	"steamPublishedFileId": "3565358091",
+	"steamPublishedFileId": "3589557185",
 	"steamTestLivePublishedFileId": "",
 	"steamVisibility": 0,
 	"folderName": "Ash-and-Blood",
 	"revisionNumber": 1674656,
 	"snapshotId": 44402,
-	"fileSize": 0
+	"fileSize": -800267552
 }
